@@ -53,26 +53,26 @@ import p_img49 from './p_img49.png'
 import p_img50 from './p_img50.png'
 import p_img51 from './p_img51.png'
 import p_img52 from './p_img52.png'
-import skin1 from './skin1.jpg'
-import skin2 from './skin2.jpg'
-import skin3 from './skin3.jpg'
-import skin31 from './skin31.jpg'
-import skin4 from './skin4.jpg'
-import skin41 from './skin41.jpg'
-import skin42 from './skin42.jpg'
-import skin5 from './skin5.jpg'
-import skin51 from './skin51.jpg'
-import skin6 from './skin6.jpg'
-import skin61 from './skin61.jpg'
-import skin7 from './skin7.jpg'
-import skin71 from './skin71.jpg'
-import skin72 from './skin72.jpg'
-import skin9 from './skin9.jpg'
-import skin91 from './skin91.jpg'
-import skin92 from './skin92.jpg'
-import skin8 from './skin8.jpg'
-import skin81 from './skin81.jpg'
-import skin10 from './skin10.jpg'
+// import skin1 from './skin1.jpg'
+// import skin2 from './skin2.jpg'
+// import skin3 from './skin3.jpg'
+// import skin31 from './skin31.jpg'
+// import skin4 from './skin4.jpg'
+// import skin41 from './skin41.jpg'
+// import skin42 from './skin42.jpg'
+// import skin5 from './skin5.jpg'
+// import skin51 from './skin51.jpg'
+// import skin6 from './skin6.jpg'
+// import skin61 from './skin61.jpg'
+// import skin7 from './skin7.jpg'
+// import skin71 from './skin71.jpg'
+// import skin72 from './skin72.jpg'
+// import skin9 from './skin9.jpg'
+// import skin91 from './skin91.jpg'
+// import skin92 from './skin92.jpg'
+// import skin8 from './skin8.jpg'
+// import skin81 from './skin81.jpg'
+// import skin10 from './skin10.jpg'
 import make1 from './make1.jpg'
 import make2 from './make2.jpg'
 import make21 from './make21.jpg'
@@ -1078,126 +1078,126 @@ export const products = [
         date: 1716668445448,
         bestseller: false
     },
-    {
-        _id: "aaaca",
-        name: "Cetaphil Gentle Skin Cleanser",
-        description: "Cetaphil Paraben, Sulphate-Free Gentle Skin Hydrating Face Wash Cleanser with Niacinamide, Vitamin B5 for Dry to Normal, Sensitive Skin - 125 ml",
-        price: 360,
-        image: [skin1],
-        category: "Beauty",
-        subCategory: "Skincare",
-        //sizes: ["S", "M", "L", "XL"],
-        date: 1716668445444,
-        bestseller: true
-    },
-    {
-        _id: "aaacb",
-        name: "Sandalwood Butter Scrub",
-        description: "Ghar Soaps Sandalwood & Saffron Magic Soaps For Bath (100 Gms Pack Of 1) | Paraben Free | Chandan & Kesar Bath Soap | Handmade Soaps For Glowing | Skin Brightening Soap For Men & Women",
-        price: 174,
-        image: [skin2],
-        category: "Beauty",
-        subCategory: "Skincare",
-        //sizes: ["S", "M", "L", "XL"],
-        date: 1716612345444,
-        bestseller: true
-    },
-    {
-        _id: "aaacc",
-        name: "Sali-Cinamide Anti-Acne Face Wash",
-        description: "The Derma Co Face Wash with 2% Salicylic Acid and 2% Niacinamide | Sali-Cinamide Anti-Acne Face Wash - 80ml",
-        price: 224,
-        image: [skin3,skin31],
-        category: "Beauty",
-        subCategory: "Skincare",
-        //sizes: ["S", "M", "L", "XL"],
-        date: 1716668345644,
-        bestseller: true
-    },
-    {
-        _id: "aaacd",
-        name: "Minimalist Anti-Acne Face Wash",
-        description: "Minimalist Anti-Acne Salicylic Acid 2% Face Wash For Oily & Acne Prone Skin | With LHA for Pore Cleansing, Oil Control & Sebum Regulation | Sulfate-Free Formula with Zinc for Gentle Exfoliation | Cleanser for Women & Men | 100 ml",
-        price: 284,
-        image: [skin4,skin41,skin42],
-        category: "Beauty",
-        subCategory: "Skincare",
-        //sizes: ["S", "M", "L", "XL"],
-        date: 1712222222244,
-        bestseller: true
-    },
-    {
-        _id: "aaace",
-        name: "NIVEA Nourishing Body Lotion",
-        description: "NIVEA Nourishing Body Milk 600ml Body Lotion | 48 H Moisturization | With 2X Almond Oil | Smooth and Healthy Looking Skin |For Very Dry Skin",
-        price: 364,
-        image: [skin5,skin51],
-        category: "Beauty",
-        subCategory: "Skincare",
-        //sizes: ["S", "M", "L", "XL"],
-        date: 1712222333244,
-        bestseller: true
-    },
-    {
-        _id: "aaacf",
-        name: "Neutrogena Deep Clean Gentle Facial Cleanser",
-        description: "Neutrogena Deep Clean Gentle Facial Cleanser | 2x Glycerin & Cleansing Agent | Alcohol-Free | Dermatologist Tested | Normal to Oily Skin | For Men and Women | 200ml",
-        price: 420,
-        image: [skin6,skin61],
-        category: "Beauty",
-        subCategory: "Skincare",
-        //sizes: ["S", "M", "L", "XL"],
-        date: 1712211333244,
-        bestseller: false
-    },
-    {
-        _id: "aaacg",
-        name: "Neutrogena Visible Repair Retinol",
-        description: "Neutrogena Visible Repair Retinol Day & Night Cream: Boosts Collagen for Anti-Ageing, Wrinkles, Fine Lines 50g",
-        price: 1260,
-        image: [skin7,skin71,skin72],
-        category: "Beauty",
-        subCategory: "Skincare",
-        //sizes: ["S", "M", "L", "XL"],
-        date: 1712299333244,
-        bestseller: true
-    },
-    {
-        _id: "aaach",
-        name: "Sebamed Liquid Face & Body Wash",
-        description: "Sebamed Liquid Face & Body Wash 200Ml -Moisturizing Protects The Skin From Dehydration",
-        price: 599,
-        image: [skin8,skin81],
-        category: "Beauty",
-        subCategory: "Skincare",
-        //sizes: ["S", "M", "L", "XL"],
-        date: 1712211313244,
-        bestseller: false
-    },
-    {
-        _id: "aaaci",
-        name: "DOT & KEY Vitamin C + E Super Bright Sunscreen",
-        description: "DOT & KEY Vitamin C + E Super Bright Sunscreen Spf 50 |Water-Light,UVA/UVB & Blue Light Protection|For Even Toned & Glowing Skin|With Liquid Spf 50+++| No White Cast| For All Skin Types| 50G,Pack Of 1",
-        price: 378,
-        image: [skin9,skin91,skin92],
-        category: "Beauty",
-        subCategory: "Skincare",
-        //sizes: ["S", "M", "L", "XL"],
-        date: 1712211219944,
-        bestseller: false
-    },
-    {
-        _id: "aaacj",
-        name: "The Derma Co 1% Hyaluronic Sunscreen",
-        description: "The Derma Co 1% Hyaluronic Sunscreen Aqua Gel SPF 50 PA++++ I For Oily, Dry, Acne-prone Skin | Ultra Lightweight Texture I Non-Greasy, No White Cast | Broad Spectrum Protection & Blue Light Protection | For Men & Women | 80 g",
-        price: 583,
-        image: [skin10],
-        category: "Beauty",
-        subCategory: "Skincare",
-        //sizes: ["S", "M", "L", "XL"],
-        date: 1789211213244,
-        bestseller: true
-    },
+    // {
+    //     _id: "aaaca",
+    //     name: "Cetaphil Gentle Skin Cleanser",
+    //     description: "Cetaphil Paraben, Sulphate-Free Gentle Skin Hydrating Face Wash Cleanser with Niacinamide, Vitamin B5 for Dry to Normal, Sensitive Skin - 125 ml",
+    //     price: 360,
+    //     image: [skin1],
+    //     category: "Beauty",
+    //     subCategory: "Skincare",
+    //     //sizes: ["S", "M", "L", "XL"],
+    //     date: 1716668445444,
+    //     bestseller: true
+    // },
+    // {
+    //     _id: "aaacb",
+    //     name: "Sandalwood Butter Scrub",
+    //     description: "Ghar Soaps Sandalwood & Saffron Magic Soaps For Bath (100 Gms Pack Of 1) | Paraben Free | Chandan & Kesar Bath Soap | Handmade Soaps For Glowing | Skin Brightening Soap For Men & Women",
+    //     price: 174,
+    //     image: [skin2],
+    //     category: "Beauty",
+    //     subCategory: "Skincare",
+    //     //sizes: ["S", "M", "L", "XL"],
+    //     date: 1716612345444,
+    //     bestseller: true
+    // },
+    // {
+    //     _id: "aaacc",
+    //     name: "Sali-Cinamide Anti-Acne Face Wash",
+    //     description: "The Derma Co Face Wash with 2% Salicylic Acid and 2% Niacinamide | Sali-Cinamide Anti-Acne Face Wash - 80ml",
+    //     price: 224,
+    //     image: [skin3,skin31],
+    //     category: "Beauty",
+    //     subCategory: "Skincare",
+    //     //sizes: ["S", "M", "L", "XL"],
+    //     date: 1716668345644,
+    //     bestseller: true
+    // },
+    // {
+    //     _id: "aaacd",
+    //     name: "Minimalist Anti-Acne Face Wash",
+    //     description: "Minimalist Anti-Acne Salicylic Acid 2% Face Wash For Oily & Acne Prone Skin | With LHA for Pore Cleansing, Oil Control & Sebum Regulation | Sulfate-Free Formula with Zinc for Gentle Exfoliation | Cleanser for Women & Men | 100 ml",
+    //     price: 284,
+    //     image: [skin4,skin41,skin42],
+    //     category: "Beauty",
+    //     subCategory: "Skincare",
+    //     //sizes: ["S", "M", "L", "XL"],
+    //     date: 1712222222244,
+    //     bestseller: true
+    // },
+    // {
+    //     _id: "aaace",
+    //     name: "NIVEA Nourishing Body Lotion",
+    //     description: "NIVEA Nourishing Body Milk 600ml Body Lotion | 48 H Moisturization | With 2X Almond Oil | Smooth and Healthy Looking Skin |For Very Dry Skin",
+    //     price: 364,
+    //     image: [skin5,skin51],
+    //     category: "Beauty",
+    //     subCategory: "Skincare",
+    //     //sizes: ["S", "M", "L", "XL"],
+    //     date: 1712222333244,
+    //     bestseller: true
+    // },
+    // {
+    //     _id: "aaacf",
+    //     name: "Neutrogena Deep Clean Gentle Facial Cleanser",
+    //     description: "Neutrogena Deep Clean Gentle Facial Cleanser | 2x Glycerin & Cleansing Agent | Alcohol-Free | Dermatologist Tested | Normal to Oily Skin | For Men and Women | 200ml",
+    //     price: 420,
+    //     image: [skin6,skin61],
+    //     category: "Beauty",
+    //     subCategory: "Skincare",
+    //     //sizes: ["S", "M", "L", "XL"],
+    //     date: 1712211333244,
+    //     bestseller: false
+    // },
+    // {
+    //     _id: "aaacg",
+    //     name: "Neutrogena Visible Repair Retinol",
+    //     description: "Neutrogena Visible Repair Retinol Day & Night Cream: Boosts Collagen for Anti-Ageing, Wrinkles, Fine Lines 50g",
+    //     price: 1260,
+    //     image: [skin7,skin71,skin72],
+    //     category: "Beauty",
+    //     subCategory: "Skincare",
+    //     //sizes: ["S", "M", "L", "XL"],
+    //     date: 1712299333244,
+    //     bestseller: true
+    // },
+    // {
+    //     _id: "aaach",
+    //     name: "Sebamed Liquid Face & Body Wash",
+    //     description: "Sebamed Liquid Face & Body Wash 200Ml -Moisturizing Protects The Skin From Dehydration",
+    //     price: 599,
+    //     image: [skin8,skin81],
+    //     category: "Beauty",
+    //     subCategory: "Skincare",
+    //     //sizes: ["S", "M", "L", "XL"],
+    //     date: 1712211313244,
+    //     bestseller: false
+    // },
+    // {
+    //     _id: "aaaci",
+    //     name: "DOT & KEY Vitamin C + E Super Bright Sunscreen",
+    //     description: "DOT & KEY Vitamin C + E Super Bright Sunscreen Spf 50 |Water-Light,UVA/UVB & Blue Light Protection|For Even Toned & Glowing Skin|With Liquid Spf 50+++| No White Cast| For All Skin Types| 50G,Pack Of 1",
+    //     price: 378,
+    //     image: [skin9,skin91,skin92],
+    //     category: "Beauty",
+    //     subCategory: "Skincare",
+    //     //sizes: ["S", "M", "L", "XL"],
+    //     date: 1712211219944,
+    //     bestseller: false
+    // },
+    // {
+    //     _id: "aaacj",
+    //     name: "The Derma Co 1% Hyaluronic Sunscreen",
+    //     description: "The Derma Co 1% Hyaluronic Sunscreen Aqua Gel SPF 50 PA++++ I For Oily, Dry, Acne-prone Skin | Ultra Lightweight Texture I Non-Greasy, No White Cast | Broad Spectrum Protection & Blue Light Protection | For Men & Women | 80 g",
+    //     price: 583,
+    //     image: [skin10],
+    //     category: "Beauty",
+    //     subCategory: "Skincare",
+    //     //sizes: ["S", "M", "L", "XL"],
+    //     date: 1789211213244,
+    //     bestseller: true
+    // },
     {
         _id: "aaack",
         name: "Lakme 9 to 5 CC Cream Mini, 01-Beige",
